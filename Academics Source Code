@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel = "stylesheet"
+          type = "text/css"
+          href = "style2.css">
+    </head>
+<body style="background-color:white;">
+
+    <div id = "background" class = "jumbotron">
+        <h1 style="color:black;" align="center">MCA Edison</h1>
+        <br/>
+        <br/>
+        <br/>
+        <ul>
+            <li><a href="MCA-EdisonAbout.html">About</a></li>
+            <li><a href="MCA-EdisonAcademics.html">Academics</a></li>
+            <li><a href="MCA-EdisonSports.html">Soccer</a></li>
+            <li style="float:right"><a class="active" href="MCA-EdisonContactUs.html">Contact Us</a></li>
+        </ul>
+
+    </div>
+<h2 style="color:black" align="center"><br/>Academics<br/></h2>
+     <div class="row">
+    
+        <div class="col-md-4" style="text-align: center;">
+        
+            <h2 align="center">Math</h2>
+            <p align = "center">Run by Ms. Vaksman and Mr. Mosaad, our math program teaches students geometry, algebra 2, precalculus, calculus and AP calculus. These courses are taught worldwide due to their importance in our modern world. Being an engineering school, we highly monitor our math programs to ensure our students the best education and time possible.</p>
+            
+        <img src="http://mcvts.net/cms/lib07/NJ01911694/Centricity/Domain/139/ATT00003.jpg" align:center; width = "300" height = "300" />
+        </div>
+        <div class="col-md-4" style="text-align: center;">
+            <h2 style="color:black;" align="center">Science</h2>
+            <p style="color:black" align="center"> Throughout high school, our students will learn the sciences of Biology, Physics, Chemistry and AP Environmental Sciences.The teachers are experienced scientists with many accomplishments and achievements. These courses have proven to be very helpful for our students, especially in their engineering classes.</p>
+            <img src="https://image.freepik.com/free-vector/science-rocks_23-2147507699.jpg" align: center; style="width:300px;height:270px"; />
+        </div>
+            <h2 style="color:black;" align="center">Engineering</h2>
+        <div class="col-md-4" style="text-align: center;">
+            <p style="color:black"> In both courses of engineering, Civil/Mechanical or Electrical/Computer, the students have access to highly experienced, professional industry engineers, both with 20+ years in the field. We provide our students with 90 minutes of engineering daily, with an extensive curriculum. Our students do have the options to receive credits form these college-like courses. </p>
+            <img src="https://www.raspberrypi.org/wp-content/uploads/2015/01/Pi2ModB1GB_-comp-500x283.jpeg" align: center; />
+
+        </div>
+    
+    
+</div>
+   
+</body>
+</html>    
