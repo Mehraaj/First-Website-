@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel = "stylesheet"
+          type = "text/css"
+          href = "style2.css">
+    </head>
+<body style="background-color:white;">
+
+    <div id = "background" class = "jumbotron">
+        <h1 style="color:black;" align="center">MCA Edison</h1>
+        <br/>
+        <br/>
+        <br/>
+        <ul>
+            <li><a href="MCA-EdisonAbout.html">About</a></li>
+            <li><a href="MCA-EdisonAcademics.html">Academics</a></li>
+            <li><a href="MCA-EdisonSports.html">Soccer</a></li>
+            <li style="float:right"><a class="active" href="MCA-EdisonContactUs.html">Contact Us</a></li>
+        </ul>
+
+    </div>
+<p align= "center">Middlesex County Academy is located in Edison, New Jersey, on Technology Drive. It provides an extensive Engineering program unlike any other public school. Specifically, the school touches upon Electrical/Computer Engineering, and Civil/Mechanical Engineering.The program lasts for the student's whole high school career, which lasts 4 years. Along with the other academic subjects, Math, Language Arts, Social Studies, and Science, our well mannered school teaches spanish. We do not provide electives such as music, or art, however our well thought out clubs make up for their absence. Although we provide an in-depth engineering program, our students have continued their careers as businessmen, doctors, programmers and other fields<br/><img src= "https://upload.wikimedia.org/wikipedia/en/0/01/Left-col-academy.jpg"align="middle"/></p>
+
+   
+</body>
+</html>
